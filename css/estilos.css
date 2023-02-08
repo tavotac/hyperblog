@@ -9,3 +9,8 @@ body{
     text-align: center;
     padding: 20px;
 }
+
+#cabecera{
+    background-color: aliceblue;
+    box-shadow: 2px 2px 2px #d2d2d2 ;
+}
