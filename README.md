@@ -1,2 +1,0 @@
-# hyperblog
-me toco repetir
